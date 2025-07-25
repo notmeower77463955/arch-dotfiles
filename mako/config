@@ -1,0 +1,12 @@
+background-color=#282828
+text-color=#ffffff
+border-color=#458588
+border-size=2
+default-timeout=5000
+width=300
+height=100
+margin=10
+padding=10
+anchor=top-right
+font=JetBrains Mono 10
+
